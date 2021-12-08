@@ -1,11 +1,6 @@
 .container{
     display: flex;
-    margin-top: 10px;
-}
-
-.others {
-    background-color: yellow;
-    flex: 4;
+    margin-top: 20px;
 }
 
 .link{

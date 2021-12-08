@@ -1,0 +1,16 @@
+.chart {
+    flex: 1;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: 7px 21px 20px -1px rgba(0,0,0,0.12);
+    -webkit-box-shadow: 7px 21px 20px -1px rgba(0,0,0,0.12);
+    -moz-box-shadow: 7px 21px 20px -1px rgba(0,0,0,0.12);
+}
+
+.chartTitle {
+    margin-bottom: 30px;
+    font-size: 20px;
+    font-weight: 600;
+}
